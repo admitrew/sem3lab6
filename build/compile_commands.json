@@ -1,0 +1,56 @@
+[
+{
+  "directory": "C:/vscodexe/c-_lab6-main/build",
+  "command": "C:\\TDM-GCC-64\\bin\\g++.exe -g -o CMakeFiles\\lab6.dir\\main.cpp.obj -c C:\\vscodexe\\c-_lab6-main\\c-_lab6-main\\main.cpp",
+  "file": "C:\\vscodexe\\c-_lab6-main\\c-_lab6-main\\main.cpp",
+  "output": "CMakeFiles\\lab6.dir\\main.cpp.obj"
+},
+{
+  "directory": "C:/vscodexe/c-_lab6-main/build",
+  "command": "C:\\TDM-GCC-64\\bin\\g++.exe -g -o CMakeFiles\\lab6.dir\\controller\\controller.cpp.obj -c C:\\vscodexe\\c-_lab6-main\\c-_lab6-main\\controller\\controller.cpp",
+  "file": "C:\\vscodexe\\c-_lab6-main\\c-_lab6-main\\controller\\controller.cpp",
+  "output": "CMakeFiles\\lab6.dir\\controller\\controller.cpp.obj"
+},
+{
+  "directory": "C:/vscodexe/c-_lab6-main/build",
+  "command": "C:\\TDM-GCC-64\\bin\\g++.exe -g -o CMakeFiles\\lab6.dir\\controller\\controller_document.cpp.obj -c C:\\vscodexe\\c-_lab6-main\\c-_lab6-main\\controller\\controller_document.cpp",
+  "file": "C:\\vscodexe\\c-_lab6-main\\c-_lab6-main\\controller\\controller_document.cpp",
+  "output": "CMakeFiles\\lab6.dir\\controller\\controller_document.cpp.obj"
+},
+{
+  "directory": "C:/vscodexe/c-_lab6-main/build",
+  "command": "C:\\TDM-GCC-64\\bin\\g++.exe -g -o CMakeFiles\\lab6.dir\\controller\\controller_primitive.cpp.obj -c C:\\vscodexe\\c-_lab6-main\\c-_lab6-main\\controller\\controller_primitive.cpp",
+  "file": "C:\\vscodexe\\c-_lab6-main\\c-_lab6-main\\controller\\controller_primitive.cpp",
+  "output": "CMakeFiles\\lab6.dir\\controller\\controller_primitive.cpp.obj"
+},
+{
+  "directory": "C:/vscodexe/c-_lab6-main/build",
+  "command": "C:\\TDM-GCC-64\\bin\\g++.exe -g -o CMakeFiles\\lab6.dir\\model\\model_document.cpp.obj -c C:\\vscodexe\\c-_lab6-main\\c-_lab6-main\\model\\model_document.cpp",
+  "file": "C:\\vscodexe\\c-_lab6-main\\c-_lab6-main\\model\\model_document.cpp",
+  "output": "CMakeFiles\\lab6.dir\\model\\model_document.cpp.obj"
+},
+{
+  "directory": "C:/vscodexe/c-_lab6-main/build",
+  "command": "C:\\TDM-GCC-64\\bin\\g++.exe -g -o CMakeFiles\\lab6.dir\\model\\model_primitive.cpp.obj -c C:\\vscodexe\\c-_lab6-main\\c-_lab6-main\\model\\model_primitive.cpp",
+  "file": "C:\\vscodexe\\c-_lab6-main\\c-_lab6-main\\model\\model_primitive.cpp",
+  "output": "CMakeFiles\\lab6.dir\\model\\model_primitive.cpp.obj"
+},
+{
+  "directory": "C:/vscodexe/c-_lab6-main/build",
+  "command": "C:\\TDM-GCC-64\\bin\\g++.exe -g -o CMakeFiles\\lab6.dir\\model\\model_square.cpp.obj -c C:\\vscodexe\\c-_lab6-main\\c-_lab6-main\\model\\model_square.cpp",
+  "file": "C:\\vscodexe\\c-_lab6-main\\c-_lab6-main\\model\\model_square.cpp",
+  "output": "CMakeFiles\\lab6.dir\\model\\model_square.cpp.obj"
+},
+{
+  "directory": "C:/vscodexe/c-_lab6-main/build",
+  "command": "C:\\TDM-GCC-64\\bin\\g++.exe -g -o CMakeFiles\\lab6.dir\\model\\model_rectangle.cpp.obj -c C:\\vscodexe\\c-_lab6-main\\c-_lab6-main\\model\\model_rectangle.cpp",
+  "file": "C:\\vscodexe\\c-_lab6-main\\c-_lab6-main\\model\\model_rectangle.cpp",
+  "output": "CMakeFiles\\lab6.dir\\model\\model_rectangle.cpp.obj"
+},
+{
+  "directory": "C:/vscodexe/c-_lab6-main/build",
+  "command": "C:\\TDM-GCC-64\\bin\\g++.exe -g -o CMakeFiles\\lab6.dir\\view\\view.cpp.obj -c C:\\vscodexe\\c-_lab6-main\\c-_lab6-main\\view\\view.cpp",
+  "file": "C:\\vscodexe\\c-_lab6-main\\c-_lab6-main\\view\\view.cpp",
+  "output": "CMakeFiles\\lab6.dir\\view\\view.cpp.obj"
+}
+]

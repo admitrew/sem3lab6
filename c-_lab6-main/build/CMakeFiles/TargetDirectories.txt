@@ -1,0 +1,3 @@
+C:/vscodexe/c-_lab6-main/c-_lab6-main/build/CMakeFiles/lab6.dir
+C:/vscodexe/c-_lab6-main/c-_lab6-main/build/CMakeFiles/edit_cache.dir
+C:/vscodexe/c-_lab6-main/c-_lab6-main/build/CMakeFiles/rebuild_cache.dir

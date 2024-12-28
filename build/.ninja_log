@@ -1,0 +1,11 @@
+# ninja log v6
+13	2854	7564240922587125	CMakeFiles/lab6.dir/model/model_square.cpp.obj	a622019ad9d64e30
+11	2875	7564240922567102	CMakeFiles/lab6.dir/model/model_primitive.cpp.obj	7abe340d56733a8f
+16	2876	7564240922607099	CMakeFiles/lab6.dir/model/model_rectangle.cpp.obj	fd89efc08613d0a4
+6	2877	7564240922507062	CMakeFiles/lab6.dir/controller/controller.cpp.obj	4640178a4b7ba19a
+3	2886	7564240922487045	CMakeFiles/lab6.dir/main.cpp.obj	3af9d45e59f1776e
+18	2890	7564240922627100	CMakeFiles/lab6.dir/view/view.cpp.obj	4eedbec04754521d
+9	2954	7564240922547085	CMakeFiles/lab6.dir/model/model_document.cpp.obj	278ec5ee157f7755
+8	2983	7564240922527082	CMakeFiles/lab6.dir/controller/controller_primitive.cpp.obj	964bf804e9c97e73
+7	3022	7564240922517066	CMakeFiles/lab6.dir/controller/controller_document.cpp.obj	fa4548e3c1174ca7
+3022	5322	7564240952671399	lab6.exe	24efb9e480795295
